@@ -1,0 +1,20 @@
+{
+    "tasks": [
+        {
+            "title": "Finish airtribe project",
+            "taskId": 1,
+            "description": "Finish your project before deadline",
+            "completionStatus": false,
+            "priorityLevel": "high",
+            "creationDate": "2023-06-24T13:41:31.991Z"
+        },
+        {
+            "title": "Do DSA",
+            "taskId": 2,
+            "description": "Practice at least 4 DSA problems",
+            "completionStatus": true,
+            "priorityLevel": "medium",
+            "creationDate": "2023-06-24T16:50:14.850Z"
+        }
+    ]
+}
